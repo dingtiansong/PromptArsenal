@@ -9,7 +9,16 @@ The mission of PromptArsenal is to promote prompt technology and research, and i
 PromptArsenal is committed to unleashing the potential of prompts. We long to see a world with richer prompt resources and stronger text generation capabilities. If you also love prompts and want to change the status quo, we sincerely invite you to join the PromptArsenal open source community to build the future of prompts together!
 PromptArsenal,empowering prompts potential! We believe prompts can generate not just more coherent and fluent texts, but a better future. A future with more creativity, diversity and inclusiveness. So, let's get started! 
 
-网址：http://www.shouhao.vip:3000/
+<br/>
+
+复制以下API Key：
+
+83211d5f7f027bf85f601ea1162598e56ccdeb91ea224fb911d22f9fcc125e09
+
+打开网址输入API Key：http://www.shouhao.vip:3000/
+
+即可访问prompts提示语数据库。
+如有任何问题，请在公众号或者issues留言，方便时会回复。
 <br/>
 公众号：数据智能DataISolution
 <p align="center">
